@@ -5,6 +5,14 @@ A model for generating articles based on multiple input articles about the same 
 
 ## Project Overview
 The model processes a set of articles on a specific topic, identifies common themes and differing perspectives, and generates a impartial, well-structured article that highlights these findings.
+It is a continious project, with as aim to use LLM's at it's fullest potential to create impartial news. With this project, we are not stating that LLM's (and technology in general) are neutral, we are simply experiencing how much they can help us
+If you have any idea for improvements, please feel free to push suggestions (see end of readme) or to send us an email (contact@newstrail.info)
+
+## Project next steps
+- GPT 4o mini is used for the moment, the main raison is the length of the context window and the ease of use in the testing phase. Researched at Newstrail is done to see what other model (possibly open-source) we are going to use, with as main criterea context window, quality of summarises, neutrality. If you know some reseach about those criterea, feel free to send an email ;) contact@newstrail.info
+- Combination of different LLM's models to reduce specific biases of models
+- After processing check on the use of words on their neutrality and impartiality 
+- Extend length of the articles 
 
 ## Requirements to run the model locally 
 
@@ -127,7 +135,7 @@ Ensure it is Python 3.8 or later.
 ## Contribution Guidelines
 
 1. Fork the repository and create a feature branch.
-2. Commit changes with clear, descriptive messages.
+2. Create a branch with as format "[name-of-change]". Commit changes with clear, descriptive messages. (see : https://www.conventionalcommits.org/en/v1.0.0/)
 3. Submit a pull request for review.
 
 ---
