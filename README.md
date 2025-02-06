@@ -44,8 +44,8 @@ project-root/
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/newstrail_prototype.git
-cd newstrail_prototype
+git clone https://github.com/natdeleeuw/newstrail.git
+cd newstrail
 ```
 ### 2. Install Dependencies
 Install the required Python packages using `pip`:
