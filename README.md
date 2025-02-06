@@ -1,10 +1,17 @@
-# Newstrail Prototype
-A prototype model for generating articles based on multiple input texts for the Newstrail project.
+# Newstrail
+A model for generating articles based on multiple input articles about the same news. 
 
 ---
 
 ## Project Overview
-The Newstrail Prototype processes a set of articles on a specific topic, identifies common themes and differing perspectives, and generates a neutral, well-structured article that highlights these findings. The project uses OpenAI's API for natural language processing and requires a properly structured directory setup for smooth execution.
+The model processes a set of articles on a specific topic, identifies common themes and differing perspectives, and generates a impartial, well-structured article that highlights these findings.
+
+## Requirements to run the model locally 
+
+ The project requires a properly structured directory setup (see next paragraph) for smooth execution.
+ following libraries/API/frameworks are needed : 
+ 1. **Python**: Ensure you have Python 3.8 or later installed. You can download it from [python.org](https://www.python.org/).
+ 2. **OpenAI API Key**: If you have no OpenAI API key, we can temporary provide you one for testing purposes.
 
 ---
 
@@ -29,10 +36,6 @@ project-root/
 ```
 ---
 
-## Prerequisites
-
-1. **Python**: Ensure you have Python 3.8 or later installed. You can download it from [python.org](https://www.python.org/).
-2. **OpenAI API Key**: Sign up for an API key at [OpenAI](https://platform.openai.com/signup/).
 
 ---
 

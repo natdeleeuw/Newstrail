@@ -131,7 +131,6 @@ A single continuous article of 2000-2300 words, structured with headings and sub
 - Ensure that the article maintains a neutral tone and does not persuade or influence the reader towards any particular viewpoint.
 - Be mindful of the coherence and flow, linking the common themes and differing perspectives seamlessly.
 - It is critical that each part of the article directly relates to the content of the provided articles without introducing external arguments or data.
-- Use citations where necessary to ensure clarity in which source an information is derived from without altering the neutral tone.
 
 Here a first analysis of the articles, what is common and on what they differ, in the final article focus in the beginning of the articles on the common points, and at the end of article on the point they differ and state clearly that they differ and how : 
 {common_differ}
